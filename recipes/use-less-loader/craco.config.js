@@ -1,4 +1,4 @@
-// Offical documentation available at: https://github.com/FormAPI/craco-less
+// Official documentation available at: https://github.com/FormAPI/craco-less
 
 module.exports = {
     plugins: [
